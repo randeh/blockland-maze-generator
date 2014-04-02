@@ -1,0 +1,3 @@
+Title: Maze Generator
+Author: Randy
+Generate macros of random mazes.
